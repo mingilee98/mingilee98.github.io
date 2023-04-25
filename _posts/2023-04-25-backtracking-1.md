@@ -37,7 +37,7 @@ This is because we can choose whether to include or not include each element.
 Let's start with a simple example **nums = [1]**. 
 To get all the subsets, we can either choose to include 1 or not choose to include 1. 
 This will give us the output is **{[],[1]}**. 
-For example, **nums = [1, 2]**. we have the same choice for 2 as well. 
+For another example **nums = [1, 2]**, we have the same choice for 2 as well. 
 
 We can draw a tree diagram to visualize this problem with **nums = [1, 2]**.
 
