@@ -58,23 +58,29 @@ plugins:
 
 author:
   name   : "Mingi Lee"
-  bio    : "Master's @ U of Iowa \n\n SDE Intern @ Amazon"
+  bio    : "Master's @ U of Iowa \n\n SDE Intern @ Amazon \n\n Let's Connect!"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+    - label: "LINKEDIN"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mingilee98"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "GITHUB"
+      icon: "fab fa-github"
       url: "https://github.com/mingilee98"
+    - label: "EMAIL"
+      icon: "fas fa-envelope"
+      url: "mailto:mingilee98@gmail.com"      
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mingilee98"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/mingilee98"
+    - label: "EMAIL"
+      icon: "fas fa-envelope"
+      url: "mailto:mingilee98@gmail.com"      
 
 defaults:
   # _posts
