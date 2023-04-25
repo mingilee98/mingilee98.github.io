@@ -41,7 +41,7 @@ For example, **nums = [1, 2]**. we have the same choice for 2 as well.
 
 We can draw a tree diagram to visualize this problem with **nums = [1, 2]**.
 
-![tree](../assets/images/backtracking-1.jpeg)
+![tree](/assets/images/backtracking-1.jpeg)
 
 To get every possible subset, we can recursively depth-first traverse the tree and add the leaf nodes to the output. 
 This recursive solution **builds candidates to the solutions and backtracks (abandoning candidates) when there is no point in traversing more**.
@@ -52,7 +52,7 @@ This recursive solution **builds candidates to the solutions and backtracks (aba
 Now let's implement the solution that we visualized with the tree diagram.
 
 
-```Java
+```java
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
 
@@ -94,10 +94,7 @@ class Solution {
 
 We can visualize the recursion tree for example **nums = [1, 2]**.
 
-![](../assets/images/backtracking-2.jpeg)
-
-
-
+![recursion tree](/assets/images/backtracking-2.jpeg)
 
 
 
