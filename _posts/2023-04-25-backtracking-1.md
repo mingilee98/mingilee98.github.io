@@ -6,7 +6,7 @@ tags:
   - Backtracking
 ---
 
-## Backtracking 
+## Learning Backtracking 
 
 Backtracking is an algorithm that **incrementally builds candidates to the solutions, and abandons a candidate ("backtracks") as soon as it determines that the candidate cannot possibly be completed to a valid solution** [1].
 

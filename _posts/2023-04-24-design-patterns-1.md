@@ -6,7 +6,7 @@ tags:
   - Design Patterns
 ---
 
-## Learning Design Patterns:
+## Learning Design Patterns
 
 We will learn about design patterns that allow us to accelerate the development process and promote software reuse. 
 
