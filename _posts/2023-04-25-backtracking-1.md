@@ -12,7 +12,7 @@ Backtracking is an algorithm that **incrementally builds candidates to the solut
 
 Usually, when we want to identify every possible solution to a problem, we can use backtracking to get the solutions.
 
-Backtracking can be visualized as a form of tree traversal, and it is the most intuitive way to understand the algorithm.
+Backtracking can be visualized in the form of a tree diagram, and it is the most intuitive way to understand the algorithm.
 
 We will solve various computational problems to learn this algorithm.
 
@@ -25,7 +25,7 @@ The problem that we will solve in this post is the subsets.
 >The solution set must not contain duplicate subsets.
 > Return the solution in any order.
 
-This problem requires us to get all possible subsets. 
+This problem requires us to get all possible subsets of a given array.
 
 ## Solution
 
