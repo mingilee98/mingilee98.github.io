@@ -41,7 +41,7 @@ For another example **nums = [1, 2]**, we have the same choice for 2 as well.
 
 We can draw a tree diagram to visualize this problem with **nums = [1, 2]**.
 
-![tree](/assets/images/backtracking-1.jpeg)
+![tree](/assets/images/0425/0425-1.jpeg)
 
 To get every possible subset, we can recursively depth-first traverse the tree and add the leaf nodes to the output. 
 This recursive solution **builds candidates to the solutions and backtracks (abandoning candidates) when there is no point in traversing more**.
@@ -94,8 +94,8 @@ class Solution {
 
 We can visualize the recursion tree for example **nums = [1, 2]**.
 
-![recursion tree](/assets/images/backtracking-2.jpeg)
 
+![tree](/assets/images/0425/0425-2.jpeg)
 
 
 
