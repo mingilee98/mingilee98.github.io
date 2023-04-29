@@ -1,5 +1,5 @@
 ---
-title: "Backtracking 1: Subsets"
+title: "Backtracking 1 - Subsets"
 categories:
   - Algorithms
 tags:

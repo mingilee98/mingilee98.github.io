@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns 1: Why do we need them? / Strategy Pattern"
+title: "Design Patterns 1 - Why do we need them? / Strategy Pattern"
 categories:
   - Object-Oriented Programming
 tags:
@@ -111,7 +111,7 @@ Now we can change the subclasses according to this change.
 
 ```java
 public class MallardDuck extends Duck{
-	
+  
 	public MallardDuck() {
 		flyBehavior = new FlyWithWings();
 	}
@@ -161,4 +161,4 @@ Thus, we will learn more patterns in the upcoming posts.
 <br>
 
 > ##### Reference
->*"Head First Design Patterns" by Elisabeth Freeman and Eric Freeman*
+>*"Head First Design Patterns"* by Elisabeth Freeman and Eric Freeman

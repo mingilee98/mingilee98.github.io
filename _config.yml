@@ -90,10 +90,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
+      show_date: true
+      words_per_minute: 120
+      # toc: true
+      classes: wide
+
   # _pages
   - scope:
       path: "_pages"
