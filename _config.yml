@@ -96,7 +96,6 @@ defaults:
       related: true
       show_date: true
       words_per_minute: 120
-      # toc: true
       classes: wide
 
   # _pages
@@ -113,3 +112,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
