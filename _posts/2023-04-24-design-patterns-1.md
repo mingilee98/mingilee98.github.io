@@ -89,6 +89,7 @@ Let's remove the fly method and replace it with **performFly()** which uses the 
 
 ```java
 public abstract class Duck {
+  
 	
 	FlyingBehavior flyBehavior;
 	
@@ -111,7 +112,7 @@ Now we can change the subclasses according to this change.
 
 ```java
 public class MallardDuck extends Duck{
-  
+
 	public MallardDuck() {
 		flyBehavior = new FlyWithWings();
 	}

@@ -7,6 +7,7 @@ tags:
 ---
 
 **Previous Posts:**
+
 [Design Patterns 1 - Why do we need them? / Strategy Pattern](/_posts/2023-04-24-design-patterns-1.md)
 
 -------
