@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: mingilee98.github.io
+title: MingiLog
 email: mingilee98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 github_username: mingilee98
 minimal_mistakes_skin: default
 search: true
-
 
 # Build settings
 markdown: kramdown
@@ -94,10 +93,11 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
       show_date: true
       words_per_minute: 120
       classes: wide
-
+      
   # _pages
   - scope:
       path: "_pages"
@@ -113,3 +113,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
+head_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/startup.js
