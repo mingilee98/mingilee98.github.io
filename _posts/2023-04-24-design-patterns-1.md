@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns 1 - Why do we need them? / Strategy Pattern"
+title: "[Design Patterns] Why do we need them? / Strategy Pattern"
 categories:
   - Object-Oriented Programming
 tags:

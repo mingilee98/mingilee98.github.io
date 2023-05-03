@@ -1,5 +1,5 @@
 ---
-title: "Backtracking 2 - Combination Sum"
+title: "[Backtracking] Combination Sum"
 categories:
   - Algorithms
 tags:
@@ -7,7 +7,7 @@ tags:
 ---
 **Previous Posts:**
 
-[Backtracking 1 - Subsets](/_posts/2023-04-24-backtracking-1.md)
+[[Backtracking] What is Backtracking? / Subsets](/_posts/2023-04-24-backtracking-1.md)
 
 -------
 

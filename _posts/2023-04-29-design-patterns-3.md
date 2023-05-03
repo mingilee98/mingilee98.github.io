@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns 3 - The Decorator Pattern"
+title: "[Design Patterns] The Decorator Pattern"
 categories:
   - Object-Oriented Programming
 tags:
@@ -8,9 +8,9 @@ tags:
 
 **Previous Posts:**
 
-[Design Patterns 1 - Why do we need them? / The Strategy Pattern](/_posts/2023-04-24-design-patterns-1.md)
+[[Design Patterns] Why do we need them? / The Strategy Pattern](/_posts/2023-04-24-design-patterns-1.md)
 
-[Design Patterns 2 - The Observer Pattern](/_posts/2023-04-28-design-patterns-2.md)
+[[Design Patterns] The Observer Pattern](/_posts/2023-04-28-design-patterns-2.md)
 
 -------
 

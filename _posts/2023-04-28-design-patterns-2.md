@@ -1,5 +1,5 @@
 ---
-title: "Design Patterns 2 - The Observer Pattern"
+title: "[Design Patterns] The Observer Pattern"
 categories:
   - Object-Oriented Programming
 tags:
@@ -8,7 +8,7 @@ tags:
 
 **Previous Posts:**
 
-[Design Patterns 1 - Why do we need them? / Strategy Pattern](/_posts/2023-04-24-design-patterns-1.md)
+[[Design Patterns] Why do we need them? / Strategy Pattern](/_posts/2023-04-24-design-patterns-1.md)
 
 -------
 

@@ -1,5 +1,5 @@
 ---
-title: "Backtracking 1 - Subsets"
+title: "[Backtracking] What is Backtracking? / Subsets"
 categories:
   - Algorithms
 tags:
