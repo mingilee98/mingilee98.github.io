@@ -306,8 +306,13 @@ The if statement evaluates the expression in its parentheses and converts the re
 
 > ##### Reference
 >https://www.theodinproject.com
+>
 >https://www.w3schools.com/js/js_numbers.asp
+>
 >https://javascript.info/variables
+>
 >https://javascript.info/operators
+>
 >https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/
+>
 >https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#concatenating_strings
